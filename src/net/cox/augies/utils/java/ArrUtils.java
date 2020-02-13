@@ -78,7 +78,7 @@ public class ArrUtils {
 	}
 	
 	public static ArrayList<Object> getNonDuplicate(ArrayList<Object> arr){
-		ArrayList<Object> arr2 = new ArrayList<Object>();
+		ArrayList<Object> arr2 = new ArrayList<>();
 		for(Object i : arr) {
 			if(!arr2.contains(i)) {
 				arr2.add(i);

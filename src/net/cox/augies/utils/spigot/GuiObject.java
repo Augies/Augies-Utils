@@ -1,4 +1,4 @@
-package net.cox.augies.utils.spigot.gui;
+package net.cox.augies.utils.spigot;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

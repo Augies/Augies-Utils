@@ -1,4 +1,4 @@
-package net.cox.augies.utils.spigot.gui;
+package net.cox.augies.utils.spigot;
 
 import org.bukkit.NamespacedKey;
 import org.bukkit.enchantments.Enchantment;
